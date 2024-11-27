@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Pacientes</string>
+    <string name="title">Calculadora de IMC</string>
+    <string name="nombre">Nombre</string>
+</resources>
